@@ -30,7 +30,8 @@ print("Square root of the number:",fun())
 ```
 
 ## Output:
-![gcd of two number](square.png)
+![square](https://user-images.githubusercontent.com/93860256/154271475-eeee0319-fcc4-4666-9168-dcb2ace2e856.PNG)
+
 
 
 ## Result:
